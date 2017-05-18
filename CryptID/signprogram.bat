@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Bin\signtool.exe" sign /a /n "Matthias Merkel" /t http://timestamp.comodoca.com/authenticode /d CryptID "bin/Release/CryptID.exe"
