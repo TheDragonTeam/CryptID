@@ -1,0 +1,10 @@
+D:\VBProjects\CryptID\cidctrl\bin\Debug\cidctrl.exe.config
+D:\VBProjects\CryptID\cidctrl\bin\Debug\cidctrl.exe
+D:\VBProjects\CryptID\cidctrl\bin\Debug\cidctrl.pdb
+D:\VBProjects\CryptID\cidctrl\bin\Debug\cidctrl.xml
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.vbprojResolveAssemblyReference.cache
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.Resources.resources
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.vbproj.GenerateResource.Cache
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.exe
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.xml
+D:\VBProjects\CryptID\cidctrl\obj\Debug\cidctrl.pdb

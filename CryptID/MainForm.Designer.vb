@@ -71,7 +71,7 @@ Partial Class MainForm
         Me.SelectFile.Image = CType(resources.GetObject("SelectFile.Image"), System.Drawing.Image)
         Me.SelectFile.Location = New System.Drawing.Point(3, 3)
         Me.SelectFile.Name = "SelectFile"
-        Me.SelectFile.Size = New System.Drawing.Size(471, 508)
+        Me.SelectFile.Size = New System.Drawing.Size(472, 508)
         Me.SelectFile.TabIndex = 5
         Me.SelectFile.Text = "Select an encrypted file"
         Me.SelectFile.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -83,9 +83,9 @@ Partial Class MainForm
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.FullScan.Image = Global.CryptID.My.Resources.Resources.radar
-        Me.FullScan.Location = New System.Drawing.Point(957, 3)
+        Me.FullScan.Location = New System.Drawing.Point(959, 3)
         Me.FullScan.Name = "FullScan"
-        Me.FullScan.Size = New System.Drawing.Size(474, 508)
+        Me.FullScan.Size = New System.Drawing.Size(472, 508)
         Me.FullScan.TabIndex = 3
         Me.FullScan.Text = "Do a full scan (scans processes and your drives)"
         Me.FullScan.TextAlign = System.Drawing.ContentAlignment.BottomCenter
@@ -97,9 +97,9 @@ Partial Class MainForm
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.SelectNote.Image = Global.CryptID.My.Resources.Resources.note
-        Me.SelectNote.Location = New System.Drawing.Point(480, 3)
+        Me.SelectNote.Location = New System.Drawing.Point(481, 3)
         Me.SelectNote.Name = "SelectNote"
-        Me.SelectNote.Size = New System.Drawing.Size(471, 508)
+        Me.SelectNote.Size = New System.Drawing.Size(472, 508)
         Me.SelectNote.TabIndex = 4
         Me.SelectNote.Text = "Select a ransom/decryption note"
         Me.SelectNote.TextAlign = System.Drawing.ContentAlignment.BottomCenter

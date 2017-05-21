@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CryptID", "CryptID\CryptID.vbproj", "{0D3F7A3D-ADC3-4CC6-B597-E8D5A498DADB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cidctrl", "cidctrl\cidctrl.vbproj", "{ECD3059B-BDF0-4E8E-B927-E7F787AF0070}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0D3F7A3D-ADC3-4CC6-B597-E8D5A498DADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D3F7A3D-ADC3-4CC6-B597-E8D5A498DADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D3F7A3D-ADC3-4CC6-B597-E8D5A498DADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD3059B-BDF0-4E8E-B927-E7F787AF0070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD3059B-BDF0-4E8E-B927-E7F787AF0070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD3059B-BDF0-4E8E-B927-E7F787AF0070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD3059B-BDF0-4E8E-B927-E7F787AF0070}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

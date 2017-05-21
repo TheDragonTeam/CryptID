@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Werte der Assemblyattribute überprüfen
 
-<Assembly: AssemblyTitle("CryptID")>
-<Assembly: AssemblyDescription("CryptID - The free ransomware identifier")>
-<Assembly: AssemblyCompany("TheDragonTeam")>
-<Assembly: AssemblyProduct("CryptID")>
-<Assembly: AssemblyCopyright("Copyright © TheDragonTeam 2017")>
-<Assembly: AssemblyTrademark("CryptID by TheDragonTeam")>
+<Assembly: AssemblyTitle("cidctrl")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("cidctrl")>
+<Assembly: AssemblyCopyright("Copyright ©  2017")>
+<Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird.
-<Assembly: Guid("afa7133a-ea4b-4d67-89df-6f55e910b6f5")>
+<Assembly: Guid("8ce2a6a4-646f-4077-9672-460885fb1dad")>
 
 ' Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 '
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' übernehmen, indem Sie "*" eingeben:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("2.0.0.1")>
-<Assembly: AssemblyFileVersion("2.0.0.1")>
+<Assembly: AssemblyVersion("1.0.0.0")>
+<Assembly: AssemblyFileVersion("1.0.0.0")>

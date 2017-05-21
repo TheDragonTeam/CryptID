@@ -19,3 +19,16 @@ D:\VBProjects\CryptID\CryptID\obj\Debug\CryptID.vbproj.GenerateResource.Cache
 D:\VBProjects\CryptID\CryptID\obj\Debug\CryptID.exe
 D:\VBProjects\CryptID\CryptID\obj\Debug\CryptID.xml
 D:\VBProjects\CryptID\CryptID\obj\Debug\CryptID.pdb
+D:\VBProjects\CryptID\CryptID\bin\Debug\AutoUpdater.NET.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\AutoUpdater.NET.pdb
+D:\VBProjects\CryptID\CryptID\bin\Debug\AutoUpdater.NET.xml
+D:\VBProjects\CryptID\CryptID\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\bin\Debug\tr\AutoUpdater.NET.resources.dll
