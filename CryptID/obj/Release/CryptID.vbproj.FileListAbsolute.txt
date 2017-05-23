@@ -32,3 +32,13 @@ D:\VBProjects\CryptID\CryptID\bin\Release\pl\AutoUpdater.NET.resources.dll
 D:\VBProjects\CryptID\CryptID\bin\Release\ru\AutoUpdater.NET.resources.dll
 D:\VBProjects\CryptID\CryptID\bin\Release\sv\AutoUpdater.NET.resources.dll
 D:\VBProjects\CryptID\CryptID\bin\Release\tr\AutoUpdater.NET.resources.dll
+D:\VBProjects\CryptID\CryptID\obj\Release\CryptID.vbprojResolveAssemblyReference.cache
+D:\VBProjects\CryptID\CryptID\bin\Release\Burrow.dll
+D:\VBProjects\CryptID\CryptID\bin\Release\Burrow.RPC.dll
+D:\VBProjects\CryptID\CryptID\bin\Release\Castle.Core.dll
+D:\VBProjects\CryptID\CryptID\bin\Release\RabbitMQ.Client.dll
+D:\VBProjects\CryptID\CryptID\bin\Release\XDMessaging.Lite.dll
+D:\VBProjects\CryptID\CryptID\bin\Release\Burrow.xml
+D:\VBProjects\CryptID\CryptID\bin\Release\Burrow.RPC.xml
+D:\VBProjects\CryptID\CryptID\bin\Release\Castle.Core.xml
+D:\VBProjects\CryptID\CryptID\bin\Release\RabbitMQ.Client.xml

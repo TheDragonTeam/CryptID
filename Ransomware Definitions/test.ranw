@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<Ransomware>
+  <Name>Test Ransomware</Name>
+  <Description>This is just a test ransomware for CryptID. It does not really encrypt files.</Description>
+  <Extension>testransom</Extension>
+  <ProcessNames>
+	   <ProcessName>ransomtest.exe</ProcessName>
+  </ProcessNames>
+  <RansomNote>
+	   <FileName>WHAT_IS_TEST_RANSOMWARE.TXT</FileName>
+	     <Locations>
+		       <Location>%DESKTOP%</Location>
+	     </Locations>
+	     <Content>
+		       This is just a test ransomware for and from CryptID. It does not do any harm and just changes file extensions of your files.
+
+		         You can clean up the file extension mess by downloading CryptID at https://cryptid.thedragon.team. After you have downloaded it, run it, select Full Scan and click Run Decryptor at the results page. This will change your file extensions back to normal.
+
+		           To test an other thing in CryptID here is a completely random number: %var%
+	     </Content>
+  </RansomNote>
+  <Cracked>true</Cracked>
+  <Decryptor>https://cryptid.thedragon.team</Decryptor>
+</Ransomware>

@@ -7,3 +7,14 @@ D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.vbproj.GenerateResource.Cache
 D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.exe
 D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.xml
 D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.pdb
+D:\VBProjects\CryptID\cidctrl\bin\Release\Burrow.dll
+D:\VBProjects\CryptID\cidctrl\bin\Release\Burrow.RPC.dll
+D:\VBProjects\CryptID\cidctrl\bin\Release\Castle.Core.dll
+D:\VBProjects\CryptID\cidctrl\bin\Release\RabbitMQ.Client.dll
+D:\VBProjects\CryptID\cidctrl\bin\Release\XDMessaging.Lite.dll
+D:\VBProjects\CryptID\cidctrl\bin\Release\Burrow.xml
+D:\VBProjects\CryptID\cidctrl\bin\Release\Burrow.RPC.xml
+D:\VBProjects\CryptID\cidctrl\bin\Release\Castle.Core.xml
+D:\VBProjects\CryptID\cidctrl\bin\Release\RabbitMQ.Client.xml
+D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.vbprojResolveAssemblyReference.cache
+D:\VBProjects\CryptID\cidctrl\obj\Release\cidctrl.Ransomware.resources
